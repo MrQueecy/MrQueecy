@@ -1,5 +1,6 @@
 ## Queecy
 Hi, I am Queecy. I am 16 years old.  I'm interested in programming, game hacking, and cybersecurity. Currently, I'm working on various projects related to game development and exploring advanced topics in security.
+If we ever meet and you think my projects are worth it, just tell me what's up with Julka and buy me a beer
 
 CS2 / Fivem software developer
 
